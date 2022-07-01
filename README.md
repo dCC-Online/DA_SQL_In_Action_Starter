@@ -4,6 +4,7 @@ Project problems and setup directions for the Week 6 Introduction to SQL project
 
 Make sure you have covered enough content to meet the prerequisites before starting on this project!
 
+
 ## PREREQUISITES
 
 1. MySQL Server and MySQL Workbench, installed on your computer
@@ -14,6 +15,7 @@ Make sure you have covered enough content to meet the prerequisites before start
    4. Aggregate functions: COUNT, MIN, MAX, AVG, SUM, GROUP BY
    5. Aliasing (creating a new temporary column with the AS clause)
    6. SQL comments
+
 
 ## SETUP
 
@@ -31,7 +33,7 @@ Make sure you have covered enough content to meet the prerequisites before start
 12. You should see the script open in MySQL Workbench with all of the problems written out in SQL comments.
 13. Write your queries underneath the problem they relate to, and execute those queries to check that they give you the expected output!
 
-<aside>
-‼️ Make sure to check out the walk-through video on your course portal to see this setup process happening live!
 
-</aside>
+> ‼️ Make sure to check out the walk-through video on your course portal > > to see this setup process happening live!
+
+
