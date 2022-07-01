@@ -2,12 +2,12 @@
 -- TODO: Remove the "--" from the below SELECT query and run the query
 --    NOTE: When writing queries, make sure each one ends with a semi-colon
 
--- SELECT * FROM airbnb_listings_nyc;
+-- SELECT * FROM final_airbnb;
 
 
 
 -- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 1 >>>>>>>>>>>>>>>>>>>>>>>
--- Find out how many rows are in the table "airbnb_listings_nyc"
+-- Find out how many rows are in the table "final_airbnb"
 -- EXPECTED OUTPUT: 146
 
 
