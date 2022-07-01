@@ -34,6 +34,6 @@ Make sure you have covered enough content to meet the prerequisites before start
 13. Write your queries underneath the problem they relate to, and execute those queries to check that they give you the expected output!
 
 
-> ‼️ Make sure to check out the walk-through video on your course portal > > to see this setup process happening live!
+> ‼️ Make sure to check out the walk-through video on your course portal to see this setup process happening live!
 
 
