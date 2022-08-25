@@ -19,10 +19,10 @@
 
 
 -- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 3 >>>>>>>>>>>>>>>>>>>>>>>
--- Query the data to just show the unique neighborhoods listed
+-- Query the data to just show the unique neighbourhoods listed
 -- HINT: This is a "distinct" operation...
 
--- EXPECTED OUTPUT: 40 neighborhoods listed
+-- EXPECTED OUTPUT: 40 neighbourhoods listed
 
 
 -- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 4 >>>>>>>>>>>>>>>>>>>>>>>
@@ -57,12 +57,12 @@
 
 
 -- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 8 >>>>>>>>>>>>>>>>>>>>>>>
--- Find the most popular neighborhood for listings 
--- HINT: Look for which neighborhood appears most frequently in the neighbourhood column
--- HINT: You are creating "summary rows" for each neighborhood, so you will just see one entry for each neighborhood
+-- Find the most popular neighbourhood for listings 
+-- HINT: Look for which neighbourhood appears most frequently in the neighbourhood column
+-- HINT: You are creating "summary rows" for each neighbourhood, so you will just see one entry for each neighbourhood
 
 -- EXPECTED OUTPUT: Williamsburg
-
+-- INVESTIGATE: Should Williamsburg be crowned the most popular neighbourhood?
 
 -- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 9 >>>>>>>>>>>>>>>>>>>>>>>
 -- Query the data to discover which listing is the most popular using the reviews_per_month for all listings with a minimum_nights value of less than 7
@@ -87,6 +87,6 @@
 
 
 -- <<<<<<<<<<<<<<<<<<<<< ** BONUS ** >>>>>>>>>>>>>>>>>>>>>>>
--- Find the the percent above or below each listing is compared to the average price for that neighborhood.
+-- Find the the percent above or below each listing is compared to the average price for that neighbourhood.
 -- HINT: No hints! It's a bonus for a reason :)
 
